@@ -1,6 +1,6 @@
 cask "godot-no-uids" do
-  version "4.7.2"
-  sha256 "580737017ea026c735392fb8f109a54d2b07a2f0c83a0b230dced6ed5c6b437f"
+  version "4.7.1"
+  sha256 "8a6664dc00fab9da570c52d3310cc7d5688ba6a263a6baf9e1c7b2c6964b8878"
 
   url "https://github.com/rafaismyname/godot-no-uids/releases/download/#{version}-stable-nouid/godot.macos.editor.zip"
   name "Godot Engine (No UID)"
